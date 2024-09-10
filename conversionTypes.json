@@ -1,0 +1,57 @@
+{
+  "conversionTypes": {
+    "length": [
+      "meters",
+      "kilometers",
+      "centimeters",
+      "millimeters",
+      "micrometers",
+      "nanometers",
+      "miles",
+      "yards",
+      "feet",
+      "inches"
+    ],
+
+    "area": [
+      "square meters",
+      "square kilometers",
+      "square centimeters",
+      "square millimeters",
+      "square micrometers",
+      "hectares",
+      "square miles",
+      "square yards",
+      "square feet",
+      "square inches",
+      "acres"
+    ],
+
+    "temperature": ["celsius", "fahrenheit", "kelvin"],
+
+    "volume": ["gallons", "liters", "milliliters", "pints"],
+
+    "weight": [
+      "kilograms",
+      "grams",
+      "miligrams",
+      "metric tons",
+      "long tons",
+      "short tons",
+      "pounds",
+      "ounces"
+    ],
+    "time": [
+      "milliseconds",
+      "microseconds",
+      "nanoseconds",
+      "picoseconds",
+      "minutes",
+      "hours",
+      "days",
+      "weeks",
+      "months",
+      "years"
+    ]
+  }
+}
